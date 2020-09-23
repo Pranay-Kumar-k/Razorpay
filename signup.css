@@ -1,0 +1,22 @@
+* {font-family: Arial;}
+body{background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(7,42,91,1) 76%, rgb(0, 17, 255) 100%);}
+.head {height:50px;width:70%;font:20px Arial;font-weight: 400;margin-left:15%;margin-top:3%;float:left;}
+.head > img {float:left; width:150px;}
+.right {float:right;margin:right:150px;color:white;font-size: 15px;font-weight: bold;}
+.right>button {background-color: #4B95ED;height:50px;width:100px;border-radius: 5px;margin-left:20px;color:white;font-size: 15px;font-weight: bold;}
+button:hover {background-color:#0a4c9c ;}
+
+.mid{height:450px;width:75%;margin:10%;float: left;background:rgb(255, 255, 255);}
+#signup-box{float: left;;height:550px;width:30%;transform: translateY(-100px);margin-left:5%;background:white;padding:2%;}
+.mid, #signup-box {border-radius: 1%;}
+p,label{font-size:14px;color:rgba(0, 0, 0, 0.329)}
+#email {height:40px;width:90%;border-top:none;border-left: none;border-right: none;border-bottom: 0.5px solid grey;}
+.space{height:30px;}
+.captcha > img{width:100%;}
+#signup-box a {text-decoration: none;}
+#signup-box > button {height:50px;width:100%;border:none;background: #4b94edb7;color: rgb(128, 128, 128);border-radius:2px;}
+#companies {float:right;height:95%;width:58%;text-align: center;}
+div > img {width:80%;}
+p > a {color:rgba(0, 0, 0, 0.329)}
+button {border:none;}

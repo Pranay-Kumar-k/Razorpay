@@ -1,0 +1,50 @@
+* {font-family: Arial;}
+body{background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(7,42,91,1) 76%, rgb(0, 17, 255) 100%);}
+.head {height:50px;width:70%;margin-left:15%;margin-top:3%;float:left;}
+.head > img {float:left; width:150px;}
+.right {float:right;margin:right:150px;color:white;font-size: 14px;font-weight:;}
+.right>button {height:50px;width:100px;border-radius: 5px;margin-left:20px;color:#0a4c9c;font-size: 15px;font-weight: bold;}
+button:hover {background-color:white ;}
+
+.mid{height:550px;width:80%;margin:8% 8%;float: left;background:rgba(255, 255, 255, 0.945);}
+#signup-box{float: right;height:120%;width:30%;transform: translateY(-100px);margin-right:5%;background:white;padding:2%;}
+.mid, #signup-box {border-radius: 1%;}
+p,label{font-size:14px;color:rgba(0, 0, 0, 0.329)}
+#email {height:40px;width:90%;border-top:none;border-left: none;border-right: none;border-bottom: 0.1px solid rgb(212, 209, 209);}
+.space{height:30px;}
+a {text-decoration: none;color:#0a4c9c;font-weight:bold;}
+#signup-box button {height:50px;width:90%;border:none;background: #0d65d1b7;color:white;border-radius:2px;font-size:18px}
+#left {float:left;height:95%;width:55%;padding:2%;}
+div > img {width:80%;}
+button {border:none;font-weight:600}
+#google {margin-bottom: 60%;}
+#help {text-align: center;}
+.decorated{
+    overflow: hidden;
+    text-align: center;
+    color:black;
+}
+.decorated > span{
+   position: relative;
+   display: inline-block;
+   font-weight:bold;
+}
+.decorated > span:before, .decorated > span:after{
+   content: '';
+   position: absolute;
+   top: 50%;
+   border-bottom: 1px solid gray;
+   width: 100vw;
+   margin: 0 20px;
+}
+.decorated > span:before{
+   right: 100%;
+}
+.decorated > span:after{
+   left: 100%;
+}
+button img{width:30px;float:left}
+i{color:#6290D9; font-size: 12px; transform: scaleX(1.5); margin-left:15px;}
+.bot {height:150px}
+h5 {font-size:20px;color:gray}

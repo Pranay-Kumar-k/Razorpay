@@ -1,0 +1,82 @@
+.banner { font:18px Arial;   font-weight:600;    text-align:center;    height:50px;    margin:0px;  background:rgb(44, 101, 206); color:white; transform: scaleX(1.01);}
+.button { margin:5px; height:40px;    text-align: center; border-radius: 10px;    color: white;    font-size:15px;    background-color:rgba(0, 255, 191, 0.89); border-radius:4px; font-weight:bold}
+
+.home { background-color:#070D40;    height:800px; width:1400px;    float:left; margin-bottom:300px;transform: scaleX(1.01);}
+
+.header {height:30px; float:left;    padding:0px;    margin:20px 0px 0px 0px;}
+#id1 {    width:200px; height:50px; margin:0px 0px 0px 50px; float:left;}
+#id1 img{width:150px;}
+.links {color:white; font:15px Arial; margin:5px 25px 0px 0px;  float:left;  text-align:center; }
+.links:hover{color:#4B95ED;}
+.dot {background-color:#8A8B9D; height:10px;  width:10px;  float:left;  border-radius:50%;  margin:8px 10px;}
+.hiring {float:left;  height:30px;  width:140px;  background-color:#1C1E41; margin:0px 20px 0px 80px;}
+.signup {background-color:white;  height:40px;float:left; width:150px;  font:18px Arial; color:#6290D9;  font-weight:400;  text-align:center; border-radius: 5px;}
+.signup i{color:#6290D9; font-size: 12px; transform: scaleX(1.5); margin-left:5px;}
+.signup:focus { outline: none ! important;}
+.flag{width:40px;float:left;margin:8px 20px 0px 0px;}
+
+.head-line {text-align:start;  color:white;  font:50px Arial;  font-weight:bold; }
+.line {height:5px;  width:40px;  background-color:#58C19C; float:left; margin:0px 0px 0px 20px;}
+p{color:#B4A999;    font:20px Arial;   text-align:start;   margin:30px 0px 20px 0px;  float:left;}
+.signup2 {font:20px Arial;  text-align:center;  width:150px;  height:40px;  color:white;  background-color:#0a6feb;  margin:20px;  float:left; border-radius: 5px;}
+.head-right {height:500px;   width:700px;   float:left;   margin:70px 0px 0px 0px;}
+.head-left {height:350px;  width:550px;  float:left;   margin:70px 0px 0px 50px;}
+.transform {height:150px;width:98%;float:left;margin-top:90px;background-color:white;transform:translateX(-40px) rotate(5deg);}
+.head-right-bottom {height:100px;width:80px;float:right;transform: translate(80px,40px) skew(300deg,240deg);margin-top:10px;background-color: white;}
+
+.cards{font:25px Arial;color:#04093F;font-weight:bold;height:500px;text-align: center;}
+#center {margin:25px 0px 0px 650px;float:left;width:30px;}
+.boxes > div {height:90%;width: 20%;float:left;margin:4%;background-color: #04093F;border-radius: 10px;padding: 15px;}
+.box1:hover {padding:30px;}
+.img-icon {margin: 150px 250px 10px 0px;}
+div > a {color:white; font-weight: 400;font-size:15px;}
+.box1 {background-image: url("https://razorpay.com/assets/home/accept-payments-bg.svg");background-repeat: no-repeat;background-position: right; color:white;font:25px Arial;font-weight: bold;text-align: left;}
+#box1:hover{background-repeat: repeat;}
+#box2{background-image: url("https://razorpay.com/assets/home/x-bg.svg");background-repeat: no-repeat;background-position: right;}
+#box2:hover{background-image: url("https://razorpay.com/assets/home/x-dark-bg.svg");}
+#box3:hover {background-image: url("https://razorpay.com/assets/home/capital-dark-bg.svg");}
+#box3{background-image: url("https://razorpay.com/assets/home/capital-bg.svg");background-repeat: no-repeat;background-position: right;}
+.boxes {height:90%;width: 90%;margin-left:120px;float: left;margin-bottom: 150px;}
+
+#cross{clear:both;background:rgb(237, 248, 255) ;margin-top:50px;}
+.cutter{background-color:white;height:100px;width:100%;transform: scale(1.1,2) rotate(2deg);float:left;}
+#bot-blue {background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,92,190,1) 35%, rgba(0,212,255,1) 100%);height:700px;}
+.bot-cutter{background-color:rgb(237, 248, 255);height:80px;width:100%;transform: scale(1,2.5) rotate(-2deg) ;float:left;margin-bottom: 50px;}
+.part-1 {height:100%;width:88%;color: blanchedalmond;transform:translate(150px,150px);text-align:start;font:20px Arial;}
+.part-1 p {margin-left:0px;clear:both;margin-top:20px;}
+.part-1 > .line{margin-left: 0px;}
+#check {width:auto;height:auto;float:left;font:14px Arial;}
+#check > img {width:25px;margin-right: 15px;margin-left: 15px;}
+#check > button {margin-top:20px !important}
+.part-1 > img {float:right;width:200px;margin:0px 250px 50px 0px;}
+* {height:auto;width:auto;font-family:Arial, Helvetica, sans-serif;}
+
+
+#footer {background:rgb(237, 248, 255);display: grid;grid-template-rows: auto;grid-template-columns: 3% 30% 20% 20% 20% 1%; grid-gap:1%;clear:both;height:auto;margin-top:200px;text-align:start;}
+#footer > div {height:auto;float:left;}
+#info img{width:150px;}
+#info p{font-size: 16px;font-weight:100;}
+h4{font:22px Arial;}
+#Subscribe {height:50px;width:150px;color:#2661c0;font-size:18px;font-weight:bold;background:white;border:none;}
+#pci {margin-bottom: 55px;}
+#email{height:45px;border:none;transform: scale(1.2,1.1);}
+.form{margin:15px;}
+ul {list-style-type: none;text-align:start;}
+li {font-size: 18px;margin:5px;}
+li > a {text-decoration: none;font:18px Arial;}
+li > button {background:rgb(0, 243, 0);color:white;width:auto;margin:5px;padding:10px;border-radius: 5px;border:none;font-weight: bold;}
+#social-media > a > img{width:30px;margin:5px}
+#social-media {font-size:18px;margin-left:20px;}
+#social-media p{font-size:14px;}
+a {text-decoration: none;color:#2661c0}
+
+.bottom-para p{ float:right;font-size:18px;}
+button {border:none !important;}
+
+.prod{height:800px;clear:both;margin-bottom: 50px;}
+.blue-box{height:60%;width:30%;background:#04093F;transform: skew(40deg,-20deg) scale(1.5,0.8) translate(-200px,100px);float:left;}
+.invert{height:100%;text-align:right;float:right;color:white;transform:}
+
+
+
+
