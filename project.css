@@ -1,3 +1,4 @@
+* {height:auto;width:auto;font-family:Arial, Helvetica, sans-serif;}
 .banner { font:18px Arial;   font-weight:600;    text-align:center;    height:50px;    margin:0px;  background:rgb(44, 101, 206); color:white; transform: scaleX(1.01);}
 .button { margin:5px; height:40px;    text-align: center; border-radius: 10px;    color: white;    font-size:15px;    background-color:rgba(0, 255, 191, 0.89); border-radius:4px; font-weight:bold}
 
@@ -49,7 +50,6 @@ div > a {color:white; font-weight: 400;font-size:15px;}
 #check > img {width:25px;margin-right: 15px;margin-left: 15px;}
 #check > button {margin-top:20px !important}
 .part-1 > img {float:right;width:200px;margin:0px 250px 50px 0px;}
-* {height:auto;width:auto;font-family:Arial, Helvetica, sans-serif;}
 
 
 #footer {background:rgb(237, 248, 255);display: grid;grid-template-rows: auto;grid-template-columns: 3% 30% 20% 20% 20% 1%; grid-gap:1%;clear:both;height:auto;margin-top:200px;text-align:start;}

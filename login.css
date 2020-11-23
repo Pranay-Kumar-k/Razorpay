@@ -1,9 +1,11 @@
-* {font-family: Arial;}
+* {
+   font-family: Arial;
+}
 body{background: rgb(2,0,36);
 background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(7,42,91,1) 76%, rgb(0, 17, 255) 100%);}
 .head {height:50px;width:70%;margin-left:15%;margin-top:3%;float:left;}
 .head > img {float:left; width:150px;}
-.right {float:right;margin:right:150px;color:white;font-size: 14px;font-weight:;}
+.right {float:right;margin:150px;color:white;font-size: 14px;font-weight:600;}
 .right>button {height:50px;width:100px;border-radius: 5px;margin-left:20px;color:#0a4c9c;font-size: 15px;font-weight: bold;}
 button:hover {background-color:white ;}
 
